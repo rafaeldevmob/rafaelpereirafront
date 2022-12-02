@@ -20,6 +20,8 @@
 <img alingn="center" alt="reactnative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 <img alingn="center" alt="wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <img alingn="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alingn="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg">
+<img alingn="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">
 </div>
 
 ### Passionate about web and mobile techonologies.
