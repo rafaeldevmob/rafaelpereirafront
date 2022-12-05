@@ -25,5 +25,3 @@
 </div>
 
 ### Passionate about web and mobile techonologies.
-
-> S :warning:
