@@ -3,9 +3,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pereira-40a853230/)
 [![Contact](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaengcivilrj@outlook.com)
 <br>
-<br>
-![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelpereirafront&show_icons=true&theme=tokyonight)
-<br>
+
 <br>
 
 ## Technologies Used
