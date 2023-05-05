@@ -4,6 +4,8 @@
 [![Contact](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaengcivilrj@outlook.com)
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereirafront)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ## Technologies Used
