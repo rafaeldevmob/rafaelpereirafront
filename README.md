@@ -48,4 +48,4 @@
 </div>
 
 
-### Passionate about web and mobile techonologies.
+### Passionate about mobile techonologies.
