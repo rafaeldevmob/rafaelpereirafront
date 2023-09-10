@@ -4,7 +4,7 @@
 [![Contact](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaengcivilrj@outlook.com)
 <br>
 
-## <p>📱 Enthusiast of the best web & mobile development technologies</p>
+# <p>📱 Enthusiast of the best web & mobile development technologies</p>
 
 ### <p>Hello, welcome to my profile! 👋</p>
 
