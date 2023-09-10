@@ -4,7 +4,16 @@
 [![Contact](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaengcivilrj@outlook.com)
 <br>
 
-<p>Enthusiast of the best web & mobile development technologies</p>
+<p>📱 Enthusiast of the best web & mobile development technologies</p>
+
+### <p>Hello, welcome to my profile! 👋</p>
+
+### 🚀 About Me
+<p>I'm a technology enthusiast with a passionate focus on the Android mobile platform and the groundbreaking No-Code approach.
+I believe technology has the power to transform lives, and I'm dedicated to making a difference through my work.</p>
+
+
+## Feel free to reach out if you'd like to collaborate, discuss innovative ideas, or connect. If you share my passion 💼
 
 <br>
 
