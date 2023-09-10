@@ -9,11 +9,11 @@
 ### <p>Hello, welcome to my profile! 👋</p>
 
 ### 🚀 About Me
-<p>I'm a technology enthusiast with a passionate focus on the Android mobile platform and the groundbreaking No-Code approach.
+<p>I'm a technology enthusiast with a passionate focus on the Android mobile platform and the groundbreaking No-Code approach. <br>
 I believe technology has the power to transform lives, and I'm dedicated to making a difference through my work.</p>
 
 
-## Feel free to reach out if you'd like to collaborate, discuss innovative ideas, or connect. If you share my passion 💼
+## Feel free to reach out if you'd like to collaborate.
 
 <br>
 
