@@ -4,6 +4,7 @@
 [![Contact](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaengcivilrj@outlook.com)
 <br>
 
+<p>Enthusiast of the best web & mobile development technologies</p>
 
 <br>
 
@@ -27,7 +28,3 @@
 <img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 </div>
 
-
-
-
-### Passionate about mobile techonologies.
