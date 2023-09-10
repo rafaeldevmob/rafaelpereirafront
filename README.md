@@ -5,9 +5,6 @@
 <br>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereirafront&hide_progress=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ## Technologies Mobile
